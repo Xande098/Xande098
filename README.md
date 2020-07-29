@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Alexandre Sobota from Brazil (🇧🇷). I am graduated in Administration, I am currently studying Analysis and Systems Development at PUCPR.
+My name is Alexandre Sobota, I'm from Brazil (🇧🇷). I am graduated in Administration, I am currently studying Analysis and Systems Development at PUCPR.
 I am passionate about technology and especially programming.
 
 In my free time, I like to play games, watch movies and series (📺), read fiction books (📚) and listen to music (🎵).
