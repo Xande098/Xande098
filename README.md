@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My name is Alexandre Sobota from Brazil (🇧🇷). I am graduated in Administration, I am currently studying Analysis and Systems Development at PUCPR.
+I am passionate about technology and especially programming.
+
+In my free time, I like to play games, watch movies and series (📺), read fiction books (📚) and listen to music (🎵).
+
+Would you like to know me?
+
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://https://www.youtube.com/user/Sobota98s)](https://www.youtube.com/user/Sobota98s)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/alexandre-sobota-95839ba2)](https://www.linkedin.com/in/alexandre-sobota-95839ba2)
+
 <!--
 **Xande098/Xande098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
